@@ -9,4 +9,5 @@ This repository is only intended to showcase this beautiful app icons.
 2 app icons were designed by two designers from the community.
 Designers:
 Max Machen: [@maxymachen](https://www.threads.net/@maxymachen)
+
 Yosuke Yamauchi: [@yamauchiyosuke](https://www.threads.net/@yamauchiyosuke)
